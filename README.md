@@ -6,7 +6,7 @@ Cool remote access trojan to control victims pc via discord bot. No port forward
 * ` 25+ Malicious Commands`
 * ` Buttons and Dropdowns/selection menus`
 * ` Easy to setup and use`
-* ` Updated version` of https://github.com/Rdimo/DiscordRAT
+* ` Updated version of https://github.com/Rdimo/DiscordRAT`
 
 ### 📁・Setting up the RAT
 1. Start off by ofc installing [python](https://www.python.org/)
